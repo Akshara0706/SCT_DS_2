@@ -42,14 +42,3 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 Ch. Akshara
 BVRIT Hyderabad
 SkillCraft Technology - Data Science Intern
-## Survival Distribution
-![Survival Distribution](survival_distribution.png)
-
-## Gender vs Survival
-![Gender vs Survival](gender_vs_survival.png)
-
-## Passenger Class vs Survival
-![Passenger Class vs Survival](class_vs_survival.png)
-
-## Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
